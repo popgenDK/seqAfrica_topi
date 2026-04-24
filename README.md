@@ -32,6 +32,8 @@ Genome-wide heterozygosity without ROH
 ## 7. Demography
 PSMC
 GONE
+PopSizeABC
 
-## 8. Selection scan
-GRoSS
+## 8. Functional genetic diversity analysis
+Genetic Load
+DFE
